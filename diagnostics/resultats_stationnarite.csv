@@ -1,0 +1,4 @@
+serie,adf_p_value,kpss_p_value
+Série brute,0.01,0.01
+Série retenue par ndiffs,0.01,0.01
+Série avec différenciation simple,0.01,0.1

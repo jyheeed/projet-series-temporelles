@@ -1,0 +1,4 @@
+variable,adf_p_value,kpss_p_value
+Consommation différenciée,0.01,0.1
+Température différenciée,0.01,0.1
+Éolien différencié,0.01,0.1

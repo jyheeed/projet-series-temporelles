@@ -1,0 +1,2 @@
+modele,ljung_box_statistique,ljung_box_p_value,jarque_bera_statistique,jarque_bera_p_value,arch_statistique,arch_p_value
+SARIMAX température + Fourier,121.1970631439544,0,5004.523387771313,0,379.53958692186274,5.804249824712166e-78
